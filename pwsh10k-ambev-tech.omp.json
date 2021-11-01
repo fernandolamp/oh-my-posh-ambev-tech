@@ -189,13 +189,16 @@
                                 {
                                         "type": "git",
                                         "style": "powerline",
-                                        "powerline_symbol": "",
+                                        "powerline_symbol": "",
                                         "foreground": "#a3a310",
                                         "background": "#2f2f2f",
                                         "properties": {
+                                                "status_colors_enabled": true,                                   
                                                 "prefix" : "\u003c#ffffff\u003e╱ \u003c/\u003e",
                                                 "display_stash_count": true,
-                                                "display_upstream_icon": true
+                                                "display_upstream_icon": true,
+                                                "display_status": true,                                                
+                                                "stash_count_icon": "\uF692 "                                                                                 
                                         }
                                 },
                                 {
