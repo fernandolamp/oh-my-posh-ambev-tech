@@ -1,8 +1,10 @@
-# Oh-my-posh tema baseado no Powerlevel10k and Pwsh10k
+# AmbevTech tema para Oh-my-posh baseado no Powerlevel10k and Pwsh10k
 
 
-![PWSH10k PREVIEW](https://user-images.githubusercontent.com/18193204/139718154-581fdd9a-398a-47b1-9741-630ef5cff7f7.png)<space><space>
-Preview
+ ![image](https://user-images.githubusercontent.com/18193204/139723237-829c3171-8f1e-4f84-8d02-260965b98517.png)
+ 
+ ## Documentação oficial
+ Se você quiser conhecer o projeto oficial do oh my posh antes de instalar o tema siga o link https://ohmyposh.dev/ 
  
 ## Prerequisitos
 
